@@ -1,6 +1,8 @@
 h1 {
     color: green;
-    font-style: italic;
+    font-family: segoe script;
+    font-size: 32pt;
+    font-weight: bold;
 }
 footer{
     color: green;
